@@ -32,16 +32,6 @@
 		E1E352EF1C762CD100D2DE8A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
-/* Begin PBXFrameworksBuildPhase section */
-		E1E352D51C762B4100D2DE8A /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXFrameworksBuildPhase section */
-
 /* Begin PBXGroup section */
 		E1E352CF1C762B4100D2DE8A = {
 			isa = PBXGroup;
@@ -99,9 +89,7 @@
 			buildConfigurationList = E1E352E11C762B4100D2DE8A /* Build configuration list for PBXNativeTarget "FBAnnotationClustering" */;
 			buildPhases = (
 				E1E352D41C762B4100D2DE8A /* Sources */,
-				E1E352D51C762B4100D2DE8A /* Frameworks */,
 				E1E352D61C762B4100D2DE8A /* Headers */,
-				E1E352D71C762B4100D2DE8A /* Resources */,
 			);
 			buildRules = (
 			);
@@ -142,16 +130,6 @@
 			);
 		};
 /* End PBXProject section */
-
-/* Begin PBXResourcesBuildPhase section */
-		E1E352D71C762B4100D2DE8A /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		E1E352D41C762B4100D2DE8A /* Sources */ = {
